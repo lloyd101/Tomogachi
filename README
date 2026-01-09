@@ -1,0 +1,23 @@
+# Tamagotchi Virtual Pet Game
+
+A JavaFX-based virtual pet simulation game where you can care for and interact with digital pets.
+
+## Features
+
+- Three pet types: Dog, Cat, and Bunny
+- Manage pet stats: Health, Happiness, Energy, Fullness
+- In-game currency system (Dabloons)
+- Save/Load game functionality
+- Play time restrictions (parental controls)
+- Fullscreen mode support
+
+## Requirements
+
+- Java JDK 23 or later
+- JavaFX 23 or later
+- Git (optional, for cloning)
+
+## To run
+
+- Run './run.sh' to compile and run
+- If error Permission Declined run 'chmod +x run.sh'
