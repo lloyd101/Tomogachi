@@ -1,0 +1,14 @@
+name=Buddy
+type=DOG
+maxHealth=100
+health=100
+happiness=100
+fullness=100
+energy=100
+currency=100
+score=0
+creationDate=2025-04-03
+Treats=2
+Kibble=5
+Premium Food=1
+Vaccine=1

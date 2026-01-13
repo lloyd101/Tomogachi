@@ -1,0 +1,8 @@
+parentalPassword=123456
+dailyTimeLimit=0
+allowedStartTime=08:00
+allowedEndTime=23:00
+totalPlayTime=00
+numberOfSessions=1
+timeRestrictionsEnabled=false
+fullscreen=false
